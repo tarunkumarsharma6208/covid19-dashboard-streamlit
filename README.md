@@ -2,7 +2,7 @@
 
 This is an interactive dashboard built using **Python**, **Streamlit**, **Pandas**, and **Plotly** to visualize COVID-19 data across different Indian states and zones. The data is loaded from a CSV file and displayed with attractive charts and key performance indicators (KPIs).
 
-![Dashboard Preview]("https://pythonjournals.com/how-i-built-a-covid-19-dashboard-in-10-minutes-using-streamlit/")
+
 
 ---
 
@@ -33,3 +33,8 @@ This is an interactive dashboard built using **Python**, **Streamlit**, **Pandas
 ```bash
 git clone https://github.com/tarunkumarsharma6208/covid19-dashboard-streamlit.git
 cd covid-dashboard-streamlit
+
+
+---
+
+Let me know if you want to **https://pythonjournals.com/how-i-built-a-covid-19-dashboard-in-10-minutes-using-streamlit/**, or auto-generate a `requirements.txt`.
